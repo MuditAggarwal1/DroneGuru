@@ -1,20 +1,20 @@
 <div align="justify">
-In densely populated countries like India, I am deeply concerned about the issue of food wastage. Evidence abounds in the form of overflowing streets, brimming garbage bins, and sprawling landfills, and it signifies not only hunger and pollution but also economic challenges. The modern lifestyle, which I am a part of, characterized by rapid changes in habits and preferences, contributes to the squandering of food, clothing, and other resources.
+  
+**Drone Guru** app is designed for enthusiasts who want to explore both drone flight control and machine learning. Here are the key features of this application:
 
-Rather than discarding these valuable items, I believe I can channel them toward a noble cause by donating to various organizations, including orphanages and old age homes. My internet-based Android application focuses on charitable endeavors through donations. Not only does it tackle food wastage, but it also addresses other needs such as clothing, books, and utensils for those in need.
 
-Consider the daily surplus of food in restaurants and cafes—a common occurrence. Instead of consigning it to the trash, I can ensure this excess nourishes the homeless. With pickup arrangements facilitated by my enterprise, restaurants and cafes can participate without hassle. The beneficiaries include both these establishments (reducing their carbon footprint and waste) and the underprivileged.
+**Tello Drone Control**: The app provides a user-friendly interface to control the Tello drone. You can fly the drone, adjust its altitude, and change its orientation using virtual controls.
 
-My project’s ultimate goal is to emphasize that investing in food wastage reduction is a logical step toward sustainable production and consumption. This encompasses food security, climate change mitigation, and other environmental concerns. I plan to develop public awareness materials and a strategic approach to achieve this mission.
+**Real-Time Object Detection**: Leveraging the power of YOLOv5 (You Only Look Once), the app performs near real-time object detection on the video stream captured by the Tello drone’s built-in camera. YOLOv5 is a popular deep learning framework for object detection tasks.
+
+**UI Design**: The app includes a well-designed user interface (UI) that allows you to interact with the drone seamlessly. You’ll find controls for takeoff, landing, maneuvering, and accessing the video feed.
+
+**Video Processing**: The app processes the H.264 (AVC) encoded video stream from the Tello drone. It decodes the video frames and displays them within the app.
+
 </div>
 
-Flowchart of the working of the application:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/54005333/118606061-97a42980-b7d4-11eb-9d27-5981ee170fb2.png">
-</p>
-
-Some screenshots of the Application: 
+Some Screenshots Of The Application: 
 <p align="center" float="left">
 <table>
   <tr>
