@@ -1,6 +1,6 @@
 <div align="justify">
   
-**Drone Guru** app is designed for enthusiasts who want to explore both drone flight control and machine learning. Here are the key features of this application:
+**"Drone Guru"** app is designed for enthusiasts who want to explore both drone flight control and machine learning. Here are the key features of this application:
 
 
 **Tello Drone Control**: The app provides a user-friendly interface to control the Tello drone. You can fly the drone, adjust its altitude, and change its orientation using virtual controls.
