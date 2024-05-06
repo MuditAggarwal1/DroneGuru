@@ -61,4 +61,4 @@ Some Screenshots Of The Application:
  APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
 
  
-# FEEDZIE
+# DRONE-GURU
