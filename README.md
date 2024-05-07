@@ -18,41 +18,26 @@ Some Screenshots Of The Application:
 <p align="center" float="left">
 <table>
   <tr>
+    <td>Logo</td>
     <td>Home Screen</td>
-    <td>Register Screen</td>
-    <td>Login Screen</td>
-    <td>Dashboard Screen</td>
+    <td>Drone Controller Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/08c13472-c5b4-4e86-aabc-5e027d8d77c6" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/55501125-9486-46f1-b6e4-f628286b97f0" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/acdf322e-f9de-415b-a317-ad8db5dbaf8f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/5c8ff5ba-dceb-49b9-a789-0eddb7c843f6" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Donate Screen</td>
+    <td>Drone Connected</td>
     <td>Receive Screen</td>
-    <td>Food Map Screen</td>
-    <td>History Screen</td>
+    <td>Video On</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/74df12d5-2fcf-4d44-be99-dfa9c87cfbe2" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
-  </tr>
- </table>
- </table>
- <table>
-  <tr>
-    <td>About Screen</td>
-     <td>App Logo</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/2f95a22d-0745-428d-9b24-f94358fa2a1a" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/5a7f1a26-a2c4-4402-bf6d-4e8882c0704f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/d89e2e2f-217a-4995-a858-24312321e0f0" width="220"></td>
   </tr>
  </table>
  </p>
