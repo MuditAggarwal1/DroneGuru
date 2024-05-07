@@ -32,16 +32,18 @@ Some Screenshots Of The Application:
   <tr>
     <td>Drone Connected</td>
     <td>Video On</td>
+    <td>Starting Object Detection</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/4006d4d7-1c0a-4658-9305-782e59c42c1c" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/e3373a7c-80f0-4565-9109-b10509a7b51f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/f9ab9617-34c5-4d88-a507-4d9ea1118a7b" width="220"></td>
   </tr>
  </table>
  </p>
- APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/1Py95QQVIRPDkmH47y95dP_Lt3MfAles4/view?usp=sharing)
  
- APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
+ APP VIDEO LINK (https://drive.google.com/file/d/1eW0uT_PR45LB3gLbOXLyZW11dewdEIAT/view?usp=sharing)
 
  
 # DRONE-GURU
