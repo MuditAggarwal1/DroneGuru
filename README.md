@@ -34,8 +34,8 @@ Some Screenshots Of The Application:
     <td>Video On</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/74df12d5-2fcf-4d44-be99-dfa9c87cfbe2" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/d89e2e2f-217a-4995-a858-24312321e0f0" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/4006d4d7-1c0a-4658-9305-782e59c42c1c" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/e3373a7c-80f0-4565-9109-b10509a7b51f" width="220"></td>
   </tr>
  </table>
  </p>
