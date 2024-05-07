@@ -25,18 +25,16 @@ Some Screenshots Of The Application:
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/55501125-9486-46f1-b6e4-f628286b97f0" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/acdf322e-f9de-415b-a317-ad8db5dbaf8f" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/5c8ff5ba-dceb-49b9-a789-0eddb7c843f6" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/aa1ef30f-0d87-49fb-b015-8c3f5768d666" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
     <td>Drone Connected</td>
-    <td>Receive Screen</td>
     <td>Video On</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/74df12d5-2fcf-4d44-be99-dfa9c87cfbe2" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/DRONE-GURU/assets/135834440/d89e2e2f-217a-4995-a858-24312321e0f0" width="220"></td>
   </tr>
  </table>
